@@ -72,15 +72,15 @@ A comprehensive web solution for **Sharath CHANDRA Plastic Industries**:
 ### 🎨 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharathhc&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharath559&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharathhc&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharath559&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathhc&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath559&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
