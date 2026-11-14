@@ -20,6 +20,8 @@ My focus is **backend software engineering**: Java, Spring Boot, secure APIs, an
 <p>
   <a href="https://www.credly.com/badges/1eea3cda-c4cd-4c00-8aba-780c43594aa7/linked_in_profile"><img src="assets/claude-certification.svg" height="32" alt="Claude Certified Developer - Foundations. Verify the Anthropic credential on Credly."></a>
   &nbsp;
+  <a href="https://www.kaggle.com/certification/badges/sharath559/108"><img src="assets/kaggle-course-link.svg" height="32" alt="Kaggle 5-Day AI Agents: Intensive Vibe Coding Course completion badge. View the earned badge."></a>
+  &nbsp;
   <a href="https://github.com/sharath559/talentscout/actions/workflows/ci.yml"><img src="https://github.com/sharath559/talentscout/actions/workflows/ci.yml/badge.svg" alt="TalentScout Python checks"></a>
 </p>
 
@@ -93,9 +95,22 @@ Four projects, each with a different engineering question.
       <a href="https://www.credly.com/badges/1eea3cda-c4cd-4c00-8aba-780c43594aa7/linked_in_profile"><img src="assets/claude-certified-developer-foundations.png" width="120" alt="Anthropic Claude Certified Developer - Foundations badge"></a>
     </td>
     <td valign="middle">
+      <p><sub>DEVELOPER CERTIFICATION</sub></p>
       <strong>Claude Certified Developer - Foundations</strong>
       <p>Issued by <strong>Anthropic</strong> to Sharath Chandra Yakara.</p>
       <a href="https://www.credly.com/badges/1eea3cda-c4cd-4c00-8aba-780c43594aa7/linked_in_profile">Verify the credential on Credly →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <a href="https://www.kaggle.com/certification/badges/sharath559/108"><img src="assets/kaggle-ai-agents-completion.svg" width="96" alt="Official Kaggle 5-Day AI Agents: Intensive Vibe Coding Course completion badge"></a>
+    </td>
+    <td valign="middle">
+      <p><sub>COURSE COMPLETION BADGE</sub></p>
+      <strong>5-Day AI Agents: Intensive Vibe Coding Course</strong>
+      <p>Kaggle · With Google · Completed July 30, 2026.</p>
+      <p>Hands-on learning in agent workflows, tools, memory, security, evaluation, and deployment, with assignments and a capstone project.</p>
+      <a href="https://www.kaggle.com/certification/badges/sharath559/108">View the earned badge →</a> &nbsp;·&nbsp; <a href="https://www.kaggle.com/learn-guide/5-day-agents-vibecoding">Course guide</a>
     </td>
   </tr>
 </table>
@@ -104,6 +119,6 @@ Four projects, each with a different engineering question.
 
 Open to **backend and senior software engineering** opportunities. Especially interested in API platforms, reliable services, and teams bringing AI capabilities into useful products.
 
-**[Email me](mailto:sharathy59@gmail.com)** &nbsp; / &nbsp; **[Explore my repositories](https://github.com/sharath559?tab=repositories)**
+**[Email me](mailto:sharathy59@gmail.com)** &nbsp; / &nbsp; **[Explore my repositories](https://github.com/sharath559?tab=repositories)** &nbsp; / &nbsp; **[Kaggle](https://www.kaggle.com/sharath559)**
 
 <sub>Portfolio projects are presented with their implementation status and limitations. Each repository contains the details.</sub>

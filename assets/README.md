@@ -13,3 +13,22 @@ Issuer badge artwork belongs to its respective rights holder and is displayed so
 identify and link to the earned credential. It is not covered by an implied project license.
 
 Source image: https://images.credly.com/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob
+
+## Kaggle course-completion badge
+
+- `kaggle-course-link.svg` is an original compact link graphic, not issuer artwork.
+- `kaggle-ai-agents-completion.svg` is the unmodified SVG referenced by the earned
+  badge page's `og:image` metadata, retrieved November 14, 2026.
+
+Earned badge: [5-Day AI Agents: Intensive Vibe Coding Course](https://www.kaggle.com/certification/badges/sharath559/108).
+
+The public page identifies the earner as `sharath` and describes completion of the
+2026 course with Google, including seminars, assignments, white papers, and a capstone.
+The account URL was supplied by the profile owner. The July 30, 2026 completion date
+comes from the owner's screenshot of their earned badges.
+
+This entry is labeled as a course-completion badge, separate from the Anthropic
+developer certification. The original artwork belongs to its respective rights holder
+and is displayed solely to identify and link to the earned badge.
+
+Source image: https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1178699%2F880b6d7d46ef8fab47d488d4d9e812bd%2F5-Days-Vibecoding-Agents.svg?generation=1785409225942129&alt=media
