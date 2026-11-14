@@ -1,232 +1,109 @@
-<h1 align="center">Sharath Chandra</h1>
-
-<h3 align="center">
-Senior Software Engineer · Enterprise Full-Stack Architect · AI Systems Builder
-</h3>
-
-<p align="center">
-I build production-grade software systems and AI applications that are not only functional, but explainable, observable, secure, and ready for real-world use.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Sharath Chandra — Senior Software Engineer. Backend engineering. Built with care.">
+</picture>
 
 <p align="center">
-  <a href="https://github.com/sharath559">GitHub</a> ·
-  <a href="mailto:sharathy59@gmail.com">Email</a> ·
-  <a href="#featured-systems">Featured Systems</a> ·
-  <a href="#engineering-focus">Engineering Focus</a>
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#engineering-toolkit">Engineering toolkit</a> &nbsp; / &nbsp;
+  <a href="#credentials">Credentials</a> &nbsp; / &nbsp;
+  <a href="mailto:sharathy59@gmail.com">Get in touch</a>
 </p>
 
----
+## Software that earns trust.
 
-## What I Build
+I'm **Sharath Chandra**, a Senior Software Engineer with **10+ years of experience** building enterprise applications across healthcare, transportation, and business platforms.
 
-I am a Senior Software Engineer with 10+ years of experience designing and delivering enterprise web applications across healthcare, transportation, and business platforms.
-
-My work sits at the intersection of:
-
-- Enterprise full-stack engineering
-- Java / Spring Boot microservices
-- React / MERN applications
-- Secure REST API design
-- Cloud-ready architecture
-- AI agents, RAG, evaluation, and governance
-- Production readiness, observability, and risk review
-
-The next generation of software will not be judged only by how fast it is built.
-
-It will be judged by whether it can be trusted.
-
-That is the direction I am building toward.
-
----
-
-## Current Direction
-
-I am focused on building AI-native engineering tools for the next 5–10 years:
-
-- AI systems that can explain their decisions
-- Agent workflows that can be audited and replayed
-- Pre-deployment review tools for AI-generated applications
-- Temporal reasoning systems that answer what was known, when it was known, and what changed
-- Human-in-the-loop approval systems for high-risk AI decisions
-- Developer tools that turn fast AI coding into reliable production software
-
----
-
-## Featured Systems
-
-### LaunchGuard AI
-
-A pre-deployment readiness review assistant for vibe-coded and AI-generated applications.
-
-LaunchGuard AI reviews project architecture, configuration, authentication, security risks, performance gaps, logging gaps, and deployment readiness before an application reaches production.
-
-Core ideas:
-
-- Production readiness scoring
-- Security and architecture review
-- Deployment checklist generation
-- Risk-based recommendations
-- AI-era software quality gates
-
-Repository: `sharath559/-sharath-event-talks-app`
-
----
-
-### TimeLens AI
-
-A temporal intelligence system designed to answer:
-
-> What was known?  
-> When was it known?  
-> What changed?  
-> What should have been done?
-
-TimeLens AI explores time-aware reasoning for documents, policies, meetings, decisions, and organizational knowledge.
-
-Core ideas:
-
-- Temporal knowledge tracking
-- Decision history reconstruction
-- Policy and document change analysis
-- Accountability-focused AI reasoning
-- Governance and audit support
-
-Repository: `sharath559/TimeLens-AI`
-
----
-
-### EchoAI
-
-A voice-enabled AI assistant combining conversational AI with voice interaction.
-
-Core ideas:
-
-- AI voice interface
-- React frontend
-- Node.js backend
-- Conversational user experience
-- Human-computer interaction prototype
-
-Repository: `sharath559/echoAI`
-
----
-
-## Engineering Focus
-
-### Enterprise Application Engineering
-
-- Java, Spring Boot, Spring Security
-- Node.js, Express.js, REST APIs
-- React, TypeScript, Material UI
-- MongoDB, Oracle, PostgreSQL
-- JWT authentication and secure API flows
-- CI/CD with Jenkins, GitHub Actions, and cloud deployment patterns
-
-### AI Engineering
-
-- AI agents and agent orchestration
-- RAG-based systems
-- Prompt and context engineering
-- Evaluation-driven development
-- AI observability and audit trails
-- Risk scoring and human approval gates
-
-### Production Readiness
-
-- Security-first design
-- API reliability
-- Logging and monitoring
-- Test strategy
-- Performance optimization
-- Deployment checklists
-- Maintainable architecture
-
----
-
-## My Engineering Philosophy
-
-I do not treat AI as a shortcut around engineering.
-
-I treat AI as a force multiplier for better engineering.
-
-Good software still needs:
-
-- Clear requirements
-- Strong architecture
-- Defensive security
-- Reliable tests
-- Observable behavior
-- Human judgment
-- Production discipline
-
-Fast code is useful.
-
-Trustworthy systems are valuable.
-
----
-
-## Technology Stack
+My focus is **backend software engineering**: Java, Spring Boot, secure APIs, and dependable data flows. I also work across React and mobile interfaces. I'm expanding into **Claude integrations and agentic AI**, applying the same attention to data contracts, testability, and failure behavior.
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Enterprise-blue" />
-  <img src="https://img.shields.io/badge/Spring_Boot-Microservices-brightgreen" />
-  <img src="https://img.shields.io/badge/React-Frontend-blue" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green" />
-  <img src="https://img.shields.io/badge/Express.js-API-black" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-green" />
-  <img src="https://img.shields.io/badge/Oracle-Database-red" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange" />
-  <img src="https://img.shields.io/badge/GCP-Cloud-blue" />
-  <img src="https://img.shields.io/badge/Docker-Containers-blue" />
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-red" />
-  <img src="https://img.shields.io/badge/AI_Agents-Future_Systems-purple" />
+  <a href="https://www.credly.com/badges/1eea3cda-c4cd-4c00-8aba-780c43594aa7/linked_in_profile"><img src="assets/claude-certification.svg" height="32" alt="Claude Certified Developer - Foundations. Verify the Anthropic credential on Credly."></a>
+  &nbsp;
+  <a href="https://github.com/sharath559/talentscout/actions/workflows/ci.yml"><img src="https://github.com/sharath559/talentscout/actions/workflows/ci.yml/badge.svg" alt="TalentScout Python checks"></a>
 </p>
 
----
+## Selected work
 
-## 10-Year Bet
+Four projects, each with a different engineering question.
 
-The future belongs to engineers who can build systems that are:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sharath559/talentscout">01 &nbsp; TalentScout</a></h3>
+      <p><sub>CLAUDE · PYTHON · PYDANTIC · PYTEST</sub></p>
+      <p><strong>How do you make an AI recommendation inspectable?</strong></p>
+      <p>A candidate-evidence review workflow with exact source quotes, application-owned rubric scoring, estimated token-cost controls, and simulated human approval.</p>
+      <p><strong>Evidence:</strong> 61 tests, 93% local coverage, and passing Python 3.10 / 3.12 / 3.14 CI. Reproducible offline demo; live model quality remains unmeasured.</p>
+      <p><a href="https://github.com/sharath559/talentscout">Code</a> &nbsp;·&nbsp; <a href="https://github.com/sharath559/talentscout/blob/main/docs/ARCHITECTURE.md">Architecture</a> &nbsp;·&nbsp; <a href="https://github.com/sharath559/talentscout/blob/main/docs/demo.gif">Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sharath559/FlowPilot-Mobile">02 &nbsp; FlowPilot Mobile</a></h3>
+      <p><sub>REACT NATIVE · TYPESCRIPT · SQLITE · SUPABASE</sub></p>
+      <p><strong>What happens when the connection disappears?</strong></p>
+      <p>An offline-first record-capture app. Local SQLite writes, a durable sync outbox, visible retry states, and organization-scoped cloud access keep the data flow explicit.</p>
+      <p><strong>Engineering focus:</strong> mobile UX, local persistence, authentication, and Postgres row-level security. Pilot stage; two-way sync is roadmap work.</p>
+      <p><a href="https://github.com/sharath559/FlowPilot-Mobile">Code</a> &nbsp;·&nbsp; <a href="https://github.com/sharath559/FlowPilot-Mobile/blob/main/docs/ARCHITECTURE.md">Architecture</a> &nbsp;·&nbsp; <a href="https://github.com/sharath559/FlowPilot-Mobile/blob/main/docs/OFFLINE_SYNC.md">Sync design</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sharath559/decision-dna-ai">03 &nbsp; DecisionDNA AI</a></h3>
+      <p><sub>PYTHON · GEMINI · GOOGLE ADK · STREAMLIT</sub></p>
+      <p><strong>What changed, and why did a decision change?</strong></p>
+      <p>A temporal decision-analysis prototype using synthetic healthcare scenarios. Models changes to policies, contracts, rules, and supporting evidence through a multi-agent workflow.</p>
+      <p><strong>Engineering focus:</strong> structured decision states, deterministic comparisons, agent orchestration, and audit-oriented explanations.</p>
+      <p><a href="https://github.com/sharath559/decision-dna-ai">Code</a> &nbsp;·&nbsp; <a href="https://github.com/sharath559/decision-dna-ai/blob/main/docs/ARCHITECTURE.md">Architecture</a> &nbsp;·&nbsp; <a href="https://github.com/sharath559/decision-dna-ai/tree/main/tests">Tests</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sharath559/-sharath-event-talks-app">04 &nbsp; LaunchGuard AI</a></h3>
+      <p><sub>PYTHON · FLASK · JAVASCRIPT · CSS</sub></p>
+      <p><strong>What needs attention before deployment?</strong></p>
+      <p>A review dashboard that checks project specifications for authentication, configuration, logging, and deployment gaps. Transparent heuristics produce a readiness assessment and actionable checklist.</p>
+      <p><strong>Engineering focus:</strong> understandable risk feedback, full-stack implementation, and developer experience.</p>
+      <p><a href="https://github.com/sharath559/-sharath-event-talks-app">Code</a> &nbsp;·&nbsp; <a href="https://github.com/sharath559/-sharath-event-talks-app/blob/main/app.py">Implementation</a> &nbsp;·&nbsp; <a href="https://github.com/sharath559/-sharath-event-talks-app#-getting-started">Run locally</a></p>
+    </td>
+  </tr>
+</table>
 
-- AI-assisted but human-accountable
-- Fast to generate but safe to deploy
-- Autonomous but observable
-- Intelligent but auditable
-- Powerful but governed
+**Also exploring:** [EchoAI](https://github.com/sharath559/echoAI), a conversational voice-interface prototype built with React, Node.js, and ElevenLabs.
 
-That is the category I am building in.
+## Engineering toolkit
 
----
+| Area | Tools and practice |
+| :--- | :--- |
+| **Backend & APIs** | Java, Spring Boot, Spring Security, Python, Node.js, REST |
+| **Data & identity** | PostgreSQL, Oracle, MongoDB, SQLite, Supabase, role-based access |
+| **Delivery & operations** | GitHub Actions, Jenkins, Docker, AWS, Google Cloud, logging and monitoring |
+| **Web & mobile** | React, TypeScript, React Native, Expo, interface design |
+| **Growing in AI** | Claude Messages API, structured outputs, agent workflows, evaluation, human review |
 
-## GitHub Snapshot
+## How I work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharath559&show_icons=true&hide_border=true&theme=transparent" />
-</p>
+- **Start with the person.** Make important states, errors, and next steps understandable.
+- **Make boundaries explicit.** Define data contracts, permissions, and failure behavior early.
+- **Show the evidence.** Connect technical claims to source code, tests, and documented tradeoffs.
+- **Design for reality.** Account for unreliable networks, incomplete inputs, cost, and operational limits.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath559&layout=compact&hide_border=true&theme=transparent" />
-</p>
+## Credentials
 
----
+<table>
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <a href="https://www.credly.com/badges/1eea3cda-c4cd-4c00-8aba-780c43594aa7/linked_in_profile"><img src="assets/claude-certified-developer-foundations.png" width="120" alt="Anthropic Claude Certified Developer - Foundations badge"></a>
+    </td>
+    <td valign="middle">
+      <strong>Claude Certified Developer - Foundations</strong>
+      <p>Issued by <strong>Anthropic</strong> to Sharath Chandra Yakara.</p>
+      <a href="https://www.credly.com/badges/1eea3cda-c4cd-4c00-8aba-780c43594aa7/linked_in_profile">Verify the credential on Credly →</a>
+    </td>
+  </tr>
+</table>
 
-## For Reviewers and Judges
+## Let's build something useful.
 
-This GitHub is evolving from a traditional full-stack portfolio into an AI systems engineering portfolio.
+Open to **backend and senior software engineering** opportunities. Especially interested in API platforms, reliable services, and teams bringing AI capabilities into useful products.
 
-The strongest direction to evaluate is not only the code, but the product thinking behind it:
+**[Email me](mailto:sharathy59@gmail.com)** &nbsp; / &nbsp; **[Explore my repositories](https://github.com/sharath559?tab=repositories)**
 
-- How do we make AI-generated applications safer?
-- How do we review AI decisions before they create risk?
-- How do we track what an AI system knew at a specific point in time?
-- How do we build software that can explain itself after deployment?
-
-That is where my work is headed.
-
----
-
-## Contact
-
-I am open to software engineering, AI engineering, platform engineering, and enterprise AI product opportunities.
-
-Email: sharathy59@gmail.com
+<sub>Portfolio projects are presented with their implementation status and limitations. Each repository contains the details.</sub>

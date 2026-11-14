@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="354" height="32" viewBox="0 0 354 32" role="img" aria-labelledby="title desc">
+  <title id="title">Claude Certified Developer - Foundations</title>
+  <desc id="desc">Profile link graphic for the Anthropic credential. The unmodified issuer badge and Credly verification link appear in the Credentials section.</desc>
+  <rect x=".5" y=".5" width="353" height="31" rx="7" fill="#f8f1ec" stroke="#dbc5b5"/>
+  <path d="m17 8 7 4v8l-7 4-7-4v-8Z" fill="none" stroke="#9d5539" stroke-width="1.4"/>
+  <path d="m13.5 16 2.4 2.4 4.4-5" fill="none" stroke="#9d5539" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34" y="20.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#683e2a">Claude Certified Developer</text>
+  <path d="M195 8v16" stroke="#dbc5b5"/>
+  <text x="207" y="20.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#573f32">Foundations</text>
+</svg>

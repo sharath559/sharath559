@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="410" viewBox="0 0 1280 410" role="img" aria-labelledby="title desc">
+  <title id="title">Sharath Chandra — Senior Software Engineer</title>
+  <desc id="desc">Backend engineering. Built with care. Java, Spring Boot, APIs, and reliable systems.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111923"/>
+      <stop offset="1" stop-color="#17273b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8abaff"/>
+      <stop offset="1" stop-color="#5378a4"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="408" rx="22" fill="url(#surface)" stroke="#2c3b4f"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <rect x="52" y="47" width="32" height="3" rx="1.5" fill="#8abaff"/>
+    <text x="99" y="54" font-size="14" font-weight="600" letter-spacing="2.1" fill="#a6b5c8">SHARATH CHANDRA</text>
+    <text x="50" y="139" font-size="61" font-weight="650" letter-spacing="-2.5" fill="#f0f5fc">Backend engineering.</text>
+    <text x="50" y="211" font-size="61" font-weight="650" letter-spacing="-2.5" fill="#8abaff">Built with care.</text>
+    <text x="53" y="262" font-size="21" fill="#a6b5c8">Senior Software Engineer · Java, Spring Boot &amp; APIs</text>
+    <path d="M53 302h1174" stroke="#2c3b4f"/>
+    <text x="53" y="348" font-size="13" font-weight="600" letter-spacing="1.7" fill="#a6b5c8">CLEAR INTERFACES</text>
+    <circle cx="243" cy="344" r="2" fill="#5378a4"/>
+    <text x="266" y="348" font-size="13" font-weight="600" letter-spacing="1.7" fill="#a6b5c8">RELIABLE SYSTEMS</text>
+    <circle cx="466" cy="344" r="2" fill="#5378a4"/>
+    <text x="490" y="348" font-size="13" font-weight="600" letter-spacing="1.7" fill="#a6b5c8">HUMAN JUDGMENT</text>
+    <text x="1227" y="348" text-anchor="end" font-size="13" letter-spacing="1" fill="#8093ac">sharath559 / engineering</text>
+    <g transform="translate(890 64)">
+      <rect width="336" height="204" rx="15" fill="#0c1521" fill-opacity=".6" stroke="#2c3b4f"/>
+      <circle cx="22" cy="22" r="3" fill="#8abaff"/>
+      <text x="35" y="26" font-size="11" font-weight="600" letter-spacing="1.2" fill="#a6b5c8">DESIGN THE BOUNDARIES.</text>
+      <path d="M30 52h276" stroke="#2c3b4f"/>
+      <path d="M65 104h78m50 0h78" stroke="url(#line)" stroke-width="2"/>
+      <g fill="#182a40" stroke="#5378a4" stroke-width="1.5">
+        <rect x="37" y="80" width="48" height="48" rx="12"/>
+        <rect x="144" y="80" width="48" height="48" rx="12"/>
+        <rect x="251" y="80" width="48" height="48" rx="12"/>
+      </g>
+      <g fill="none" stroke="#8abaff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m55 96-7 8 7 8m12-16 7 8-7 8m-5-19-4 23"/>
+        <path d="M157 96h22m-22 8h15m-15 8h19"/>
+        <path d="m264 104 7 7 13-15"/>
+      </g>
+      <g font-size="11" font-weight="600" letter-spacing=".7" fill="#a6b5c8" text-anchor="middle">
+        <text x="61" y="154">BUILD</text>
+        <text x="168" y="154">TEST</text>
+        <text x="275" y="154">OPERATE</text>
+      </g>
+      <text x="168" y="184" text-anchor="middle" font-size="11" fill="#8093ac">Make the important failure states explicit.</text>
+    </g>
+  </g>
+</svg>
