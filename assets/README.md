@@ -40,3 +40,9 @@ Source image: https://www.googleapis.com/download/storage/v1/b/kaggle-user-conte
 - The certificate is dated September 30, 2019 and recognizes Sharath Chandra Yakara for contribution to the FloridaBlue Medicare Provider Platform (MyCare Community).
 
 This is an employer appreciation award, separate from the recent developer certification and course-completion badge. Florida Blue marks and certificate artwork belong to their respective rights holders and are reproduced to document the recipient's recognition.
+
+## Provider Portal launch announcement · 2019
+
+- `florida-blue/provider-portal-launch-announcement-2019.jpg` is the complete, unmodified announcement image supplied by the profile owner as `PHOTO-2026-11-20-09-50-54.jpg`.
+- The filename's 2026 date describes the supplied image file, not the historical project date. The announcement describes the March 2019 Commercial launch and October 1 Medicare launch and includes both original team photographs.
+- The original text, photographs, branding, and layout are preserved byte-for-byte. Artwork and photographs belong to their respective rights holders and are displayed to document the initiative the profile owner contributed to.

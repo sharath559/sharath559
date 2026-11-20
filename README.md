@@ -18,6 +18,12 @@
 
 **Provider Portal / Medicare Provider Platform · 2018–2019**
 
+<a href="https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/provider-portal-launch-announcement-2019.jpg"><img src="https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/provider-portal-launch-announcement-2019.jpg" width="100%" alt="Original 2019 Florida Blue Provider Portal launch announcement, including our team photographs, the consolidated provider application, Precision Health Management, and Care Team features"></a>
+
+*Our Provider Portal launch announcement, featuring the team I worked with and the platform we delivered.*
+
+**[Open the complete announcement at original size](https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/provider-portal-launch-announcement-2019.jpg)**
+
 ### 4 portals. 10–12 screens. One consolidated provider experience.
 
 I contributed to **Florida Blue's Provider Portal modernization**, a major organizational achievement during 2018–2019. The initiative brought together information and workflows for **Florida Blue Commercial, Florida Blue Medicare, and Truli for Health**, helping providers spend less time navigating disconnected applications and find the information needed for patient care.

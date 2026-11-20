@@ -54,6 +54,12 @@ Portal-specific adoption, provider counts, latency, revenue, and measured time s
 
 [View the original certificate PDF](../assets/florida-blue/certificate-of-appreciation-2019.pdf).
 
+## Original launch announcement
+
+[![Original Provider Portal launch announcement with team photographs](../assets/florida-blue/provider-portal-launch-announcement-2019.jpg)](../assets/florida-blue/provider-portal-launch-announcement-2019.jpg)
+
+[Open the complete announcement at original size](../assets/florida-blue/provider-portal-launch-announcement-2019.jpg).
+
 ## Sources
 
 - Original Florida Blue Medicare Certificate of Appreciation, supplied by me. The certificate names the **FloridaBlue Medicare Provider Platform (MyCare Community)** and IT Director **Pamula Powell-Galdi**.
