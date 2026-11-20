@@ -32,3 +32,11 @@ developer certification. The original artwork belongs to its respective rights h
 and is displayed solely to identify and link to the earned badge.
 
 Source image: https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1178699%2F880b6d7d46ef8fab47d488d4d9e812bd%2F5-Days-Vibecoding-Agents.svg?generation=1785409225942129&alt=media
+
+## Florida Blue recognition · 2019
+
+- `florida-blue/certificate-of-appreciation-2019.pdf` is the original PDF supplied by the profile owner, preserved byte-for-byte.
+- `florida-blue/certificate-of-appreciation-2019.png` is a readable landscape rendering of that PDF. Its content is unchanged.
+- The certificate is dated September 30, 2019 and recognizes Sharath Chandra Yakara for contribution to the FloridaBlue Medicare Provider Platform (MyCare Community).
+
+This is an employer appreciation award, separate from the recent developer certification and course-completion badge. Florida Blue marks and certificate artwork belong to their respective rights holders and are reproduced to document the recipient's recognition.
