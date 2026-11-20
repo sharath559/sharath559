@@ -5,32 +5,20 @@
 </picture>
 
 <p align="center">
-  <a href="#florida-blue--enterprise-impact">Florida Blue</a> &nbsp; / &nbsp;
+  <a href="#florida-blue--enterprise-impact">Featured achievement</a> &nbsp; / &nbsp;
   <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
   <a href="#engineering-toolkit">Engineering toolkit</a> &nbsp; / &nbsp;
   <a href="#credentials--recognition">Credentials &amp; recognition</a> &nbsp; / &nbsp;
   <a href="mailto:sharathy59@gmail.com">Get in touch</a>
 </p>
 
-## Software that earns trust.
+<a id="florida-blue--enterprise-impact"></a>
 
-I'm **Sharath Chandra**, a Senior Software Engineer with **10+ years of experience** building enterprise applications across healthcare, transportation, and business platforms.
-
-My healthcare experience includes **working on the Florida Blue Provider Platform**, modernizing legacy workflows and integrating SAML single sign-on. My focus is **backend software engineering**: Java, Spring Boot, secure APIs, and dependable data flows. I also work across React and mobile interfaces. I'm expanding into **Claude integrations and agentic AI**, applying the same attention to data contracts, testability, and failure behavior.
-
-<p>
-  <a href="https://www.credly.com/badges/1eea3cda-c4cd-4c00-8aba-780c43594aa7/linked_in_profile"><img src="assets/claude-certification.svg" height="32" alt="Claude Certified Developer - Foundations. Verify the Anthropic credential on Credly."></a>
-  &nbsp;
-  <a href="https://www.kaggle.com/certification/badges/sharath559/108"><img src="assets/kaggle-course-link.svg" height="32" alt="Kaggle 5-Day AI Agents: Intensive Vibe Coding Course completion badge. View the earned badge."></a>
-  &nbsp;
-  <a href="https://github.com/sharath559/talentscout/actions/workflows/ci.yml"><img src="https://github.com/sharath559/talentscout/actions/workflows/ci.yml/badge.svg" alt="TalentScout Python checks"></a>
-</p>
-
-## Florida Blue · Enterprise impact
+## Featured achievement · Florida Blue Provider Portal
 
 **Provider Portal / Medicare Provider Platform · 2018–2019**
 
-### A major milestone: bringing fragmented provider workflows into one experience
+### 4 portals. 10–12 screens. One consolidated provider experience.
 
 I contributed to **Florida Blue's Provider Portal modernization**, a major organizational achievement during 2018–2019. The initiative brought together information and workflows for **Florida Blue Commercial, Florida Blue Medicare, and Truli for Health**, helping providers spend less time navigating disconnected applications and find the information needed for patient care.
 
@@ -61,16 +49,19 @@ The capabilities above describe the **team's platform**; my contribution is iden
 
 [Read the full project story](https://github.com/sharath559/sharath559/blob/main/docs/florida-blue-provider-platform.md)
 
-### Florida Blue Medicare · Certificate of Appreciation
+## Software that earns trust.
 
-**Awarded to Sharath Chandra Yakara · September 30, 2019**
+I'm **Sharath Chandra**, a Senior Software Engineer with **10+ years of experience** building enterprise applications across healthcare, transportation, and business platforms.
 
-Recognized for outstanding and lasting contribution to the **FloridaBlue Medicare Provider Platform (MyCare Community)**.
+My healthcare experience includes **working on the Florida Blue Provider Platform**, modernizing legacy workflows and integrating SAML single sign-on. My focus is **backend software engineering**: Java, Spring Boot, secure APIs, and dependable data flows. I also work across React and mobile interfaces. I'm expanding into **Claude integrations and agentic AI**, applying the same attention to data contracts, testability, and failure behavior.
 
-<a href="https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png"><img src="https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png" width="100%" alt="Full-size Florida Blue Medicare Certificate of Appreciation presented to Sharath Chandra Yakara on September 30, 2019 for contribution to the Medicare Provider Platform"></a>
-
-**[Enlarge certificate image](https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png)** &nbsp;·&nbsp; **[Open original PDF](https://github.com/sharath559/sharath559/blob/main/assets/florida-blue/certificate-of-appreciation-2019.pdf)**
-
+<p>
+  <a href="https://www.credly.com/badges/1eea3cda-c4cd-4c00-8aba-780c43594aa7/linked_in_profile"><img src="assets/claude-certification.svg" height="32" alt="Claude Certified Developer - Foundations. Verify the Anthropic credential on Credly."></a>
+  &nbsp;
+  <a href="https://www.kaggle.com/certification/badges/sharath559/108"><img src="assets/kaggle-course-link.svg" height="32" alt="Kaggle 5-Day AI Agents: Intensive Vibe Coding Course completion badge. View the earned badge."></a>
+  &nbsp;
+  <a href="https://github.com/sharath559/talentscout/actions/workflows/ci.yml"><img src="https://github.com/sharath559/talentscout/actions/workflows/ci.yml/badge.svg" alt="TalentScout Python checks"></a>
+</p>
 
 ## Selected work
 
@@ -140,7 +131,15 @@ These are learning interests. My demonstrated mobile work uses React Native; my 
 
 ## Credentials & recognition
 
-The **Florida Blue Medicare appreciation certificate** is displayed in full above, alongside the [Florida Blue project details](#florida-blue--enterprise-impact).
+### Florida Blue Medicare · Certificate of Appreciation
+
+**Awarded to Sharath Chandra Yakara · September 30, 2019**
+
+Recognized for outstanding and lasting contribution to the **FloridaBlue Medicare Provider Platform (MyCare Community)**.
+
+<a href="https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png"><img src="https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png" width="100%" alt="Full-size Florida Blue Medicare Certificate of Appreciation presented to Sharath Chandra Yakara on September 30, 2019 for contribution to the Medicare Provider Platform"></a>
+
+**[Enlarge certificate image](https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png)** &nbsp;·&nbsp; **[Open original PDF](https://github.com/sharath559/sharath559/blob/main/assets/florida-blue/certificate-of-appreciation-2019.pdf)**
 
 ### Recent AI credentials
 
