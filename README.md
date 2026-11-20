@@ -30,12 +30,24 @@ My healthcare experience includes **working on the Florida Blue Provider Platfor
 
 **Provider Platform / MyCare Community · 2018–2019**
 
+### Florida Blue Medicare · Certificate of Appreciation
+
+**Awarded to Sharath Chandra Yakara · September 30, 2019**
+
+Recognized for outstanding and lasting contribution to the **FloridaBlue Medicare Provider Platform (MyCare Community)**.
+
+<a href="https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png"><img src="https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png" width="100%" alt="Full-size Florida Blue Medicare Certificate of Appreciation presented to Sharath Chandra Yakara on September 30, 2019 for contribution to the Medicare Provider Platform"></a>
+
+**[Enlarge certificate image](https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png)** &nbsp;·&nbsp; **[Open original PDF](https://github.com/sharath559/sharath559/blob/main/assets/florida-blue/certificate-of-appreciation-2019.pdf)**
+
+### Modernizing the provider experience
+
 - **Simpler provider workflows.** Helped modernize legacy applications into one Florida Blue application. The team's launch announcement describes consolidating patient lookup from **four portals and 10–12 screens into one screen**.
 - **One existing login.** Worked on **SAML single sign-on from Availity**, allowing providers to enter the Florida Blue application using their existing sign-in.
 - **A healthcare business serving millions.** Florida Blue reported **5M+ members statewide in July 2019**. Company membership context; distinct from portal adoption. [2019 source](https://www.floridablue.com/newsroom/Florida-Blue-Medicare-contract-with-The-Villages).
 - **Recognized contribution.** Received a **Florida Blue Medicare Certificate of Appreciation**, dated **September 30, 2019**, for contribution to the Medicare Provider Platform.
 
-[Read the project story](docs/florida-blue-provider-platform.md) &nbsp;·&nbsp; [View the original certificate](assets/florida-blue/certificate-of-appreciation-2019.pdf)
+[Read the project story](docs/florida-blue-provider-platform.md) &nbsp;·&nbsp; [View the original certificate](https://github.com/sharath559/sharath559/blob/main/assets/florida-blue/certificate-of-appreciation-2019.pdf)
 
 ## Selected work
 
@@ -105,13 +117,7 @@ These are learning interests. My demonstrated mobile work uses React Native; my 
 
 ## Credentials & recognition
 
-### Florida Blue Medicare · September 2019
-
-Recognition for contribution to the **Medicare Provider Platform (MyCare Community)**.
-
-<a href="assets/florida-blue/certificate-of-appreciation-2019.pdf"><img src="assets/florida-blue/certificate-of-appreciation-2019.png" width="680" alt="Florida Blue Medicare Certificate of Appreciation awarded to Sharath Chandra Yakara on September 30, 2019"></a>
-
-[Original certificate PDF](assets/florida-blue/certificate-of-appreciation-2019.pdf) · [Project story](docs/florida-blue-provider-platform.md)
+The **Florida Blue Medicare appreciation certificate** is displayed in full above, alongside the [Florida Blue project details](#florida-blue--enterprise-impact).
 
 ### Recent AI credentials
 
