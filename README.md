@@ -28,7 +28,38 @@ My healthcare experience includes **working on the Florida Blue Provider Platfor
 
 ## Florida Blue · Enterprise impact
 
-**Provider Platform / MyCare Community · 2018–2019**
+**Provider Portal / Medicare Provider Platform · 2018–2019**
+
+### A major milestone: bringing fragmented provider workflows into one experience
+
+I contributed to **Florida Blue's Provider Portal modernization**, a major organizational achievement during 2018–2019. The initiative brought together information and workflows for **Florida Blue Commercial, Florida Blue Medicare, and Truli for Health**, helping providers spend less time navigating disconnected applications and find the information needed for patient care.
+
+| Before the Provider Portal | What the team delivered |
+| :--- | :--- |
+| Patient lookup across **4 separate portals and 10–12 screens** | Relevant patient information consolidated into **one screen** |
+| **Dozens of clicks** to locate information | A unified view with integrated search and filtering |
+| Clinical, provider-performance, and financial information spread across systems | A consolidated portal connecting those areas with end-to-end workflows |
+
+The historical launch announcement describes **Commercial going live in March 2019** and **Medicare launching October 1, 2019**.
+
+### What made the platform valuable
+
+- **A consolidated provider workspace.** Brought population-health data, clinical and actionable insights, provider performance, financial information, and related workflows into one portal.
+- **Commercial and Medicare views.** Let providers choose the relevant business view and access rosters, patient/client information, and finances, with integrated smart search and filtering.
+- **Precision Health Management (PHM).** Helped Medicare members aged 65 and older stay on track with health checkpoints. Overdue care, such as a diabetes exam, could create portal tasks for both the member and provider to support outreach and appointment scheduling.
+- **Care Team support.** Enabled family members, friends, providers, specialists, and other designated supporters to help members manage care, including scheduling appointments and viewing tasks on their behalf. This supported members who needed help using online health tools.
+
+### My contribution and recognition
+
+- **Legacy modernization.** Helped bring fragmented legacy application workflows into a consolidated Florida Blue application.
+- **SAML single sign-on from Availity.** Worked on the federated access flow so providers could enter the Florida Blue application through their existing sign-in.
+- **Florida Blue Medicare recognition.** Received a **Certificate of Appreciation on September 30, 2019**, for outstanding and lasting contribution to the **Medicare Provider Platform (MyCare Community)**.
+
+The capabilities above describe the **team's platform**; my contribution is identified separately here. The workflow comparison and product details come from the historical Provider Portal launch announcement.
+
+**Business scale at the time:** Florida Blue reported **more than 5 million members statewide in July 2019**. This is the insurer's membership context; portal-specific adoption and measured financial savings are not documented. [Dated company source](https://www.floridablue.com/newsroom/Florida-Blue-Medicare-contract-with-The-Villages).
+
+[Read the full project story](https://github.com/sharath559/sharath559/blob/main/docs/florida-blue-provider-platform.md)
 
 ### Florida Blue Medicare · Certificate of Appreciation
 
@@ -40,14 +71,6 @@ Recognized for outstanding and lasting contribution to the **FloridaBlue Medicar
 
 **[Enlarge certificate image](https://raw.githubusercontent.com/sharath559/sharath559/main/assets/florida-blue/certificate-of-appreciation-2019.png)** &nbsp;·&nbsp; **[Open original PDF](https://github.com/sharath559/sharath559/blob/main/assets/florida-blue/certificate-of-appreciation-2019.pdf)**
 
-### Modernizing the provider experience
-
-- **Simpler provider workflows.** Helped modernize legacy applications into one Florida Blue application. The team's launch announcement describes consolidating patient lookup from **four portals and 10–12 screens into one screen**.
-- **One existing login.** Worked on **SAML single sign-on from Availity**, allowing providers to enter the Florida Blue application using their existing sign-in.
-- **A healthcare business serving millions.** Florida Blue reported **5M+ members statewide in July 2019**. Company membership context; distinct from portal adoption. [2019 source](https://www.floridablue.com/newsroom/Florida-Blue-Medicare-contract-with-The-Villages).
-- **Recognized contribution.** Received a **Florida Blue Medicare Certificate of Appreciation**, dated **September 30, 2019**, for contribution to the Medicare Provider Platform.
-
-[Read the project story](docs/florida-blue-provider-platform.md) &nbsp;·&nbsp; [View the original certificate](https://github.com/sharath559/sharath559/blob/main/assets/florida-blue/certificate-of-appreciation-2019.pdf)
 
 ## Selected work
 
